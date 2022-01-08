@@ -1,12 +1,15 @@
-### Hi there 👋
+### Hi there 👋 My name is Rashmi! 
+I'm a fourth year math major at McMaster University and I'm super interested in data science!
+
+🌱 Fun facts about me: I love all things health & wellness, I love to cook, and the last book I read was Eat Pray Love! 
 
 <!--
 **rxshmi-p/rxshmi-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
