@@ -1,7 +1,8 @@
-### Hi there 👋 My name is Rashmi! 
-I'm a fourth year math major at McMaster University and I'm super interested in data science!
+### Hi there 👋 My name is Rashmi Panse and I'm currently looking for a data science internship in tech! 
 
-🌱 Fun facts about me: I love all things health & wellness, I love to cook, and I'm currently working on
+I'm super interested in data science and have recently completed the Data Science Specialization with Python and SQL through the IBM Skills Network!
+
+🌱 Fun facts about me: I'm a gym enthusiast, I love to cook, and I love all things health & wellness!
 
 <!--
 **rxshmi-p/rxshmi-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
