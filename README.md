@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Rashmi Panse and I'm currently looking for a data science internship in tech.
+### Hi there 👋 My name is Rashmi Panse and I'm a Machine Learning Research Assistant at McMaster University.
 
 I'm super interested in data science and have recently completed the Data Science Specialization with Python and SQL through the IBM Skills Network!
 
