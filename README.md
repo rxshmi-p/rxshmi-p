@@ -1,6 +1,6 @@
-### Hi there 👋 My name is Rashmi Panse and I'm a Machine Learning Research Assistant at McMaster University.
+### Hi there 👋 My name is Rashmi Panse and I'm currently at the University of San Francisco pursuing an Msc in Data Science.
 
-I'm super interested in data science and have recently completed the Data Science Specialization with Python and SQL through the IBM Skills Network!
+I'm super interested in data science and have gained experience through an ML research position, a data science internship in finance, personal projects and school courses. Data science to me is all about asking the right questions to put the pieces of a data-driven puzzle together.
 
 🌱 Fun facts about me: I'm a gym enthusiast, I love to cook, and I love all things health & wellness!
 
