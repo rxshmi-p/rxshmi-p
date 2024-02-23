@@ -2,7 +2,7 @@
 
 I'm super interested in data science and have gained experience through an ML research position, data science internships, personal projects and school courses. Data science to me is all about asking the right questions to put the pieces of a data-driven puzzle together.
 
-🌱 Fun facts about me: I'm a gym enthusiast, I love to cook, and I love all things health & wellness!
+🌱 
 
 <!--
 **rxshmi-p/rxshmi-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
